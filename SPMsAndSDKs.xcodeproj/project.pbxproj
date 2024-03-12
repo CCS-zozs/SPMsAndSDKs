@@ -57,9 +57,9 @@
 			children = (
 				4562B8432B9FFCA000ED27E3 /* SPMsAndSDKsApp.swift */,
 				4562B8452B9FFCA000ED27E3 /* ContentView.swift */,
+				4562B8542B9FFFA400ED27E3 /* SDwebimageBootcamp.swift */,
 				4562B8472B9FFCA100ED27E3 /* Assets.xcassets */,
 				4562B8492B9FFCA100ED27E3 /* Preview Content */,
-				4562B8542B9FFFA400ED27E3 /* SDwebimageBootcamp.swift */,
 			);
 			path = SPMsAndSDKs;
 			sourceTree = "<group>";

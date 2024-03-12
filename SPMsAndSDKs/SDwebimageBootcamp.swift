@@ -6,10 +6,14 @@
 //
 
 import SwiftUI
+import SDWebImageSwiftUI
+
+
+// https://picsum.photos/id/237/200/300
 
 struct SDwebimageBootcamp: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        WebImage(url: URL(string: "https://picsum.photos/id/237/200/300"))
     }
 }
 
